@@ -649,8 +649,7 @@ def m(uid,pwx,tl):
         sys.stdout.write(f'\r\33[1;37m[RAKIB 🔥] [%s] \33[1;97m[OK:%s{𝙰𝙺𝙰𝚂𝙷2}CP:%s]'%(loop,len(ok),len(cp))), 
         sys.stdout.flush()
         checks(ok,cp)
-except:
-        pass
+
 def xyz ():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrkausar-cov', 'r').read()
 	clear()
