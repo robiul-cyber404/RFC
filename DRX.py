@@ -651,7 +651,7 @@ def m(uid,pwx,tl):
         checks(ok,cp)
 except:
         pass
-def Subscraption():
+def xyz ():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrkausar-cov', 'r').read()
 	clear()
 	print(logo)
